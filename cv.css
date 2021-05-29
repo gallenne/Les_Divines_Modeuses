@@ -1,0 +1,97 @@
+body{
+	
+	
+background-color:pink;
+max-width:1000px;
+float:center;
+margin:0 auto;
+
+
+
+	
+}
+.poste{
+	text-align:center;
+	text-decoration:underline;
+	font-weight:bold;
+	font-size:40px;
+	background-color:none;
+	letter-spacing:4px;
+	font-family:Calibri;
+	
+
+}
+img{
+	width:150px;
+	height:190px;
+	float:right;
+	border-style:double;
+	border-color:navy;
+	
+	
+}
+P{
+padding:0 auto;
+text-indent:40px;
+	text-align:justify;
+	
+}
+legend{
+	font-style:italic;
+	background:white;
+	color:navy;
+	text-decoration:underline;
+	font-size:17px;
+	font-family:Verdana;
+}
+table{
+	
+	background-color:silver;
+	border-color:navy;
+	text-align:left;
+	border:3px;
+	border-style:double;
+	border-color:navy;
+	margin:30px;
+	padding:20px;
+	
+}
+td{
+	padding-left:12px;
+	padding-right:12px;
+}
+ul{
+	font-size:15px;
+	text-align:center-left;
+	font-weight:bold;
+	color:navy;
+	font-family:Verdana;
+	
+	
+}
+fieldset{
+	background-color:silver;
+	
+	
+}
+.date{
+	font-weight:bold;
+}
+.diplome{
+	margin-left:20px;
+	
+	
+}
+.obbi{
+line-height:20px;
+	padding-top:20px;
+	max-width:800px;
+	
+}
+.couture{
+	font-size:20px;
+}
+.fort{
+	max-width:300px;
+	
+}
